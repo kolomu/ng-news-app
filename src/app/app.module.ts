@@ -11,6 +11,7 @@ import {
   MatListModule
 } from '@angular/material';
 
+import { NewsApiService } from './news-api.service';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
 
